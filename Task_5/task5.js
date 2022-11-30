@@ -1,0 +1,4 @@
+var famousName="Albert Einstein"
+var message="once said, “A person who never made a mistake never tried anything new.”"
+var quotes=famousName+" "+ message
+console.log(quotes)

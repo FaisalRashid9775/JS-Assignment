@@ -1,0 +1,7 @@
+document.write("Addition of 6 and 2 is ",6+2) 
+document.write('<br>')
+document.write("Substraction of 10 and 2 is ",10-2)
+document.write('<br>')
+document.write("Multiplication of 4 and 2 is ",4*2)
+document.write('<br>')
+document.write("Division of 16 and 2 is ",16/2)

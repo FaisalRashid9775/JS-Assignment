@@ -1,0 +1,7 @@
+console.log("Addition of 5 and 3 is ",5 + 3)
+console.log('\n')
+console.log("Substraction of 10 and 2 is ",10-2)
+console.log('\n')
+console.log('Multiplication of 4 and 2 is ',4*2)
+console.log('\n')
+console.log('Division of 16 and 2 is ',16/ 2)
